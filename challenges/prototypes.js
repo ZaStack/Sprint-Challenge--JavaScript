@@ -10,7 +10,7 @@ function CuboidMaker(object){
   this.width = object.width,
   this.height = object.height
 }
-
+//this class causing syntax issues
 
 /* == Step 2: Volume Method ==
   Create a method using CuboidMaker's prototype that returns the volume of a given cuboid's length, width, and height
